@@ -1,0 +1,38 @@
+{
+  "T-17OO0GJUTS": {
+    "customer_email": "dorothygruber@gmail.com",
+    "order_date": "2021-12-31 21:06:10",
+    "line_items": {
+      "DARKMAGENTA-2Q": {
+        "quantity": 5,
+        "color": "Dark Magenta",
+        "item_size": "1/2 Gallon",
+        "total_price": 57.6
+      },
+      "BLANCHEDALMOND-1Q": {
+        "quantity": 1,
+        "color": "Blanched Almond",
+        "item_size": "1 Quart",
+        "total_price": 6.08
+      }
+    }
+  },
+  "T-PE31IN24UI": {
+    "customer_email": "raymondsullivan@gmail.com",
+    "order_date": "2021-12-27 14:25:18",
+    "line_items": {
+      "RED-5G": {
+        "quantity": 3,
+        "color": "Red",
+        "item_size": "5 Gallon",
+        "total_price": 307.2
+      },
+      "SIENNA-5G": {
+        "quantity": 3,
+        "color": "Sienna",
+        "item_size": "5 Gallon",
+        "total_price": 307.2
+      }
+    }
+  }
+}
